@@ -1,7 +1,7 @@
 ![github-header-image (4)](https://github.com/user-attachments/assets/c47a59e0-e115-41b6-b35f-176f0c7fe601)
 <br>
 <br>
-[![Typing SVG](https://jay-website-personal-65b76d6e8318.herokuapp.com?font=Fira+Code&pause=900&color=8013F7&random=false&width=500&lines=Welcom%3A;Hello%2C+My+name+is+Ingrid;I+am+25+years+old;I+am+from+Brazil;I+am+a+data+science+student)]
+(https://jay-website-personal-65b76d6e8318.herokuapp.com?font=Fira+Code&pause=900&color=8013F7&random=false&width=500&lines=Welcom%3A;Hello%2C+My+name+is+Ingrid;I+am+25+years+old;I+am+from+Brazil;I+am+a+data+science+student)
 
 <br>
 <br>
