@@ -34,9 +34,9 @@
 
 ### Main skills:
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sql/sql-plain.svg">
+
   <img align="center" alt="Rafa-Python" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+ 
 </div>
 
 <br>
@@ -47,13 +47,8 @@
 
 <img align="center" alt="Rafa-Python" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
-<img align="left"  height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-
-<img align="left"  height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-
 <img align="left"  height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg">
 
-<img align="left"  height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
 
 </div>
 
